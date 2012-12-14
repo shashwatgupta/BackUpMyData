@@ -1,0 +1,3 @@
+..\BackUpMyData\BackUpMyData.AddIn
+..\BackUpMyData\bin\Debug\BackUpMyData.dll
+..\BackUpMyData\bin\Debug\BackUpMyData.pdb

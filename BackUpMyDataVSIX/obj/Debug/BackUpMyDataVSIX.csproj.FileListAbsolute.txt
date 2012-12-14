@@ -1,0 +1,11 @@
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\bin\Debug\backup.jpg
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\bin\Debug\MyLicence.txt
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\bin\Debug\BackUpMyDataVSIX.vsix
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\bin\Debug\extension.vsixmanifest
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\bin\Debug\BackUpMyData.dll
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\bin\Debug\BackUpMyData.pdb
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\bin\Debug\BackUpMyData.xml
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\obj\Debug\BackUpMyDataVSIX.csprojResolveAssemblyReference.cache
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\obj\Debug\BackUpMyDataVSIX.dll
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\obj\Debug\BackUpMyDataVSIX.pdb
+C:\Users\sgupta\Documents\Visual Studio 2012\Projects\BackUpMyData\BackUpMyDataVSIX\obj\Debug\extension.vsixmanifest

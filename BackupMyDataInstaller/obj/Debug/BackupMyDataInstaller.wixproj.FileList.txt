@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+C:\Users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackupMyDataInstaller\bin\Debug\BackupMyDataInstaller.msi
+C:\Users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackupMyDataInstaller\bin\Debug\BackupMyDataInstaller.wixpdb
+obj\Debug\BackupMyDataInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\BackupMyDataInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\BackupMyDataInstaller.wixproj.BindBuiltOutputsFileListnull.txt

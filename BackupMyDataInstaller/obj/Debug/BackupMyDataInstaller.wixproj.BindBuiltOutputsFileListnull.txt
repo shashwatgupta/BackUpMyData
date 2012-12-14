@@ -1,0 +1,2 @@
+C:\Users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackupMyDataInstaller\bin\Debug\BackupMyDataInstaller.msi
+C:\Users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackupMyDataInstaller\bin\Debug\BackupMyDataInstaller.wixpdb

@@ -1,0 +1,7 @@
+c:\users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackUpMyData\bin\Debug\BackUpMyData.dll
+c:\users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackUpMyData\bin\Debug\BackUpMyData.pdb
+c:\users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackUpMyData\bin\Debug\BackUpMyData.xml
+c:\users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackUpMyData\obj\Debug\BackUpMyData.csproj.ResolveComReference.cache
+c:\users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackUpMyData\obj\Debug\BackUpMyData.dll
+c:\users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackUpMyData\obj\Debug\BackUpMyData.pdb
+C:\Users\sgupta\documents\visual studio 2012\Projects\BackUpMyData\BackUpMyData\obj\Debug\BackUpMyData.csprojResolveAssemblyReference.cache

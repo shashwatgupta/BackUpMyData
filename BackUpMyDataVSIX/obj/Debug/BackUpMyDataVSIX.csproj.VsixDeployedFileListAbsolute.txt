@@ -1,0 +1,5 @@
+C:\Users\sgupta\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Shashwat Gupta\BackUpMyDataVSIX\1.0\\BackUpMyData.dll
+C:\Users\sgupta\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Shashwat Gupta\BackUpMyDataVSIX\1.0\\extension.vsixmanifest
+C:\Users\sgupta\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Shashwat Gupta\BackUpMyDataVSIX\1.0\\backup.jpg
+C:\Users\sgupta\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Shashwat Gupta\BackUpMyDataVSIX\1.0\\MyLicence.txt
+C:\Users\sgupta\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Shashwat Gupta\BackUpMyDataVSIX\1.0\\BackUpMyData.pdb

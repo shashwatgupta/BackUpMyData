@@ -1,0 +1,3 @@
+If you are in prototyping stage or currently not using any version control.This extension can help you in taking regular backup of your current solution folder. You can use this extension by right Clicking at your solution in solution explorer.It does a robocopy of your current solution folder to %userprofile%\Visual Studio 2012\Projects\BackUpMyData folder. you can also load back any solution by right clicking on your solution and then clicking import Bakcup. Import Backup take backup of current Solution and replace the current solution with backup you have selected
+
+Now  you do not have to leave VS to take manual backup

@@ -1,0 +1,21 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="BackUpMyDataVSIX..a01f2c6e-9d7a-4ef4-93f7-ed402a91894b" Version="1.0" Language="en-US" Publisher="Shashwat Gupta" />
+    <DisplayName>BackUpMyDataVSIX</DisplayName>
+    <Description>Empty VSIX Project.</Description>
+    <License>MyLicence.txt</License>
+    <ReleaseNotes>This is V1.0. </ReleaseNotes>
+    <Icon>backup.jpg</Icon>
+    <PreviewImage>backup.jpg</PreviewImage>
+    <Tags>BackUP My data</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="11.0" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="4.5" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="BackUpMyData.dll" AssemblyName="BackUpMyData, Version=1.0.4721.34318, Culture=neutral, PublicKeyToken=null" />
+  </Assets>
+</PackageManifest>

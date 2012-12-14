@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="EE1B8441-285A-44C6-9A6D-D92E3F3DB09A" Name="Backup My Data Installer" Language="1033" Version="1.0.0.0" Manufacturer="Shashwat Gupta" UpgradeCode="A4842264-4FA6-4413-AB4E-C10F811952E1">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<!--<MediaTemplate />-->
+    <Media Id="1" Cabinet="cab1.cab" EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="BackupMyDataInstaller" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="PersonalFolder">
+        <Directory Id="VisualStudio" Name="Visual Studio 2012" >
+          <Directory Id="Addins" Name="Addins" />
+        </Directory>
+			</Directory>
+		</Directory>
+
+    <!--<Directory Id="USERPROFILE" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLFOLDER" Name="BackupMyDataInstaller" />
+      </Directory>
+    </Directory>-->
+    
+	</Fragment>
+
+
+  <Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="Addins">
+			 <Component Id="ProductComponent" Guid="B1BB8B72-B164-4128-9745-2597C668960A" >
+         <File Id="BackUpMyData.AddIn" Source="..\BackUpMyData\BackUpMyData.AddIn" KeyPath="yes"/>
+         <File Id="BackUpMyData.dll" Source="..\BackUpMyData\bin\Debug\BackUpMyData.dll" />
+         <File Id="BackUpMyData.pdb" Source="..\BackUpMyData\bin\Debug\BackUpMyData.pdb" />
+       </Component> 
+		</ComponentGroup>
+	</Fragment>
+</Wix>
