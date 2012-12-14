@@ -1,0 +1,1 @@
+This is a Visual Studio Extension for backing up solution without leaving Visual Studio. A Useful in extension if you are not using any version control or in prototyping stage
